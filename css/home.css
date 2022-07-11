@@ -1,0 +1,28 @@
+body {
+    background-color: #fffdd0;
+    border-style: solid;
+    border-width: 300%;
+    border-color: #b8300b;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header {
+    text-align: center;
+    font-size: 400%;
+    font-family: "Brush Script MT", serif;
+    color: #304230;
+    margin: 5px;
+}
+a:link {
+    color: #b8300b;
+}
+a:visited {
+    color: #304230;
+    font-size: 90%;
+}
+.list {
+    list-style: circle;
+    color: #b8300b
+}
